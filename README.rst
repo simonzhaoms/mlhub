@@ -7,7 +7,7 @@ The Machine Learning Hub
 *--Under Development--*
 
 Introduction
--------------
+------------
 
 The machine learning hub is an `open source project
 <https://github.com/mlhubber/mlhub>`_ sharing `pre-built machine
